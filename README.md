@@ -1,5 +1,5 @@
 # Plotting Real Estate Data 
-This program was used to plot data scraped from Redfin. Exploratory analysis was performed with KDE plots, regression plots, heatmaps, etc. 
+This program was used to plot data scraped from Redfin. The data consisted of active and sold listings in New York City. Exploratory analysis was performed with KDE plots, regression plots, heatmaps, etc. 
 ## Installation and Setup
 ```
 import pandas as pd
